@@ -7,12 +7,10 @@ const Contact = () => {
     message: "",
   });
 
-  // Semplificazione della funzione handleChange
   const handleChange = ({ target: { name, value } }) => {
     setFormData((prevState) => ({ ...prevState, [name]: value }));
   };
 
-  // Semplificazione della funzione handleSubmit
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Form submitted:", formData);

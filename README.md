@@ -6,10 +6,10 @@ Try the project here -> https://ecotravelcalculator.netlify.app/
 
 **Features**
 
-Flight Carbon Footprint Calculator: Calculate your carbon footprint based on origin, destination, cabin class, and number of passengers.
-Dark Mode: Switch between light and dark mode for a customized browsing experience.
-Eco Tips: Discover tips for more sustainable travel practices.
-Contact Form: Send a message to the EcoTravel team via the contact form.
+-Flight Carbon Footprint Calculator: Calculate your carbon footprint based on origin, destination, cabin class, and number of passengers.
+-Dark Mode: Switch between light and dark mode for a customized browsing experience.
+-Eco Tips: Discover tips for more sustainable travel practices.
+-Contact Form: Send a message to the EcoTravel team via the contact form.
 
 **Technologies Used**
 React: JavaScript library used to build the user interface of the application.
